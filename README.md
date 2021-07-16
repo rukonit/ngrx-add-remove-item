@@ -1,10 +1,10 @@
-# TutNew
+# ngrx State Management App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+This is a sample project with ngrx implementation for application state management.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run [https://youthful-kalam-d41a73.netlify.app](https://youthful-kalam-d41a73.netlify.app/) in order to navigate to the site.
 
 ## Code scaffolding
 
