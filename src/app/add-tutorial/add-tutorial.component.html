@@ -1,0 +1,13 @@
+
+<form (ngSubmit)="addTutorial(inputForm)" #inputForm="ngForm">
+    <div class="form-group">    <label for="name">Name: </label>
+    <input ngModel class="form-control" type="text" name="name" id="name">
+</div>
+    <div class="form-group">
+    <label for="url">URL: </label>
+    <input ngModel class="form-control" type="text" name="url" id="url">
+</div>
+<button class="form-control" type="submit">Add Tutorial</button>   
+
+</form>
+
